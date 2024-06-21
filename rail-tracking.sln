@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{A7C99FD4-9710-41CB-A56A-83678EF55CD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RailTrackingBackend", "backend\RailTrackingBackend\RailTrackingBackend.csproj", "{32F95DE9-BC87-4FE7-8433-506413A60621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F95DE9-BC87-4FE7-8433-506413A60621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F95DE9-BC87-4FE7-8433-506413A60621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F95DE9-BC87-4FE7-8433-506413A60621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F95DE9-BC87-4FE7-8433-506413A60621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32F95DE9-BC87-4FE7-8433-506413A60621} = {A7C99FD4-9710-41CB-A56A-83678EF55CD9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC541F45-3893-4789-9BDF-7A02C5F586FB}
+	EndGlobalSection
+EndGlobal

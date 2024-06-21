@@ -1,0 +1,6 @@
+@RailTrackingBackend_HostAddress = http://localhost:5069
+
+GET {{RailTrackingBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

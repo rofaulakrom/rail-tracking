@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bh2IOHOZuhIoieoFGn4ylxAZh0Cc8i4NrkkPt7KR8ZPnGTR/PonrrOFwisBOc1r5mh5TmyeqCMJtIlbSpnGg6w==",
+  "success": true,
+  "projectFilePath": "S:\\RCS_MiniProject_KAI\\rail-tracking\\backend\\RailTrackingBackend\\RailTrackingBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ROFA'UL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
