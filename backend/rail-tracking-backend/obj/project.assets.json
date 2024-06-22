@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\RCS_MiniProject_KAI\\rail-tracking\\backend\\RailTrackingBackend\\RailTrackingBackend.csproj",
+      "projectUniqueName": "S:\\RCS_MiniProject_KAI\\TES\\rail-tracking\\backend\\rail-tracking-backend\\RailTrackingBackend.csproj",
       "projectName": "RailTrackingBackend",
-      "projectPath": "S:\\RCS_MiniProject_KAI\\rail-tracking\\backend\\RailTrackingBackend\\RailTrackingBackend.csproj",
+      "projectPath": "S:\\RCS_MiniProject_KAI\\TES\\rail-tracking\\backend\\rail-tracking-backend\\RailTrackingBackend.csproj",
       "packagesPath": "C:\\Users\\ROFA'UL\\.nuget\\packages\\",
-      "outputPath": "S:\\RCS_MiniProject_KAI\\rail-tracking\\backend\\RailTrackingBackend\\obj\\",
+      "outputPath": "S:\\RCS_MiniProject_KAI\\TES\\rail-tracking\\backend\\rail-tracking-backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROFA'UL\\AppData\\Roaming\\NuGet\\NuGet.Config"
