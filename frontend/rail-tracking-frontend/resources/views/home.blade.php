@@ -6,8 +6,8 @@
     <form action="{{ url('/home') }}" method="POST">
         @csrf
         <div class="mb-3">
-            <label for="no_ka" class="form-label">No KA</label>
-            <input type="text" class="form-control" id="no_ka" name="no_ka" required>
+            <label for="trainNumber" class="form-label">No KA</label>
+            <input type="text" class="form-control" id="trainNumber" name="trainNumber" required>
         </div>
         <button type="submit" class="btn btn-primary">Enter</button>
     </form>

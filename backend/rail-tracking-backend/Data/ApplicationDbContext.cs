@@ -17,25 +17,46 @@ namespace RailTrackingBackend.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
-            // Customize the ASP.NET Identity model and override the defaults if needed.
-            // For example, you can rename the ASP.NET Identity table names and more.
-            // Add your customizations after calling base.OnModelCreating(builder);
+            modelBuilder.Entity<Station>().HasKey(s => s.StationCode);
+            modelBuilder.Entity<Station>().Property(s => s.StationCode).HasMaxLength(10);
+            modelBuilder.Entity<Station>().Property(s => s.StationName).HasMaxLength(100);
+
+            modelBuilder.Entity<Train>().HasKey(t => t.TrainNumber);
+            modelBuilder.Entity<Train>().Property(t => t.TrainNumber).HasMaxLength(20);
+            modelBuilder.Entity<Train>().Property(t => t.TrainName).HasMaxLength(100);
+
+            var routeComparer = new ValueComparer<List<string>>(
+                (c1, c2) => c1.SequenceEqual(c2),
+                c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                c => c.ToList());
+
+            modelBuilder.Entity<Train>()
+                .Property(t => t.Route)
+                .HasConversion(
+                    v => string.Join(',', v),
+                    v => v.Split(',', StringSplitOptions.RemoveEmptyEntries).ToList())
+                .Metadata.SetValueComparer(routeComparer);
+
+            var carriageOrderComparer = new ValueComparer<List<string>>(
+                (c1, c2) => c1.SequenceEqual(c2),
+                c => c.Aggregate(0, (a, v) => HashCode.Combine(a, v.GetHashCode())),
+                c => c.ToList());
+
+            modelBuilder.Entity<Stamformation>().HasKey(sf => sf.StamformationId);
+            modelBuilder.Entity<Stamformation>().Property(sf => sf.TrainNumber).HasMaxLength(20);
+            modelBuilder.Entity<Stamformation>().Property(sf => sf.CarriageCode).HasMaxLength(20);
+
+            modelBuilder.Entity<Stamformation>()
+                .Property(sf => sf.CarriageOrder)
+                .HasConversion(
+                    v => string.Join(',', v),
+                    v => v.Split(',', StringSplitOptions.RemoveEmptyEntries).ToList())
+                .Metadata.SetValueComparer(carriageOrderComparer);
+
+            modelBuilder.Entity<Stamformation>()
+                .HasOne(sf => sf.Train)
+                .WithMany()
+                .HasForeignKey(sf => sf.TrainNumber);
         }
-    }
-
-    public class Station
-    {
-        // Station properties
-    }
-
-    public class Train
-    {
-        // Train properties
-    }
-
-    public class Stamformation
-    {
-        // Stamformation properties
     }
 }
