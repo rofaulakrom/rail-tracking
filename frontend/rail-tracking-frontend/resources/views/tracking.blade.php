@@ -13,10 +13,21 @@ document.addEventListener('DOMContentLoaded', (event) => {
         attribution: '© OpenStreetMap contributors'
     }).addTo(map);
 
-    // Example: replace this with your real-time data fetching logic
-    var trainLocation = { lat: -6.912615, lng: 107.6024 };
+    // Fetch and display the route
+    fetch(`/api/train/route/{{ $no_ka }}`)
+        .then(response => response.json())
+        .then(data => {
+            if (data.length > 0) {
+                var latlngs = data.map(point => [point.latitude, point.longitude]);
+                var polyline = L.polyline(latlngs, { color: 'blue' }).addTo(map);
+                map.fitBounds(polyline.getBounds());
+            }
+        });
 
-    L.marker([trainLocation.lat, trainLocation.lng]).addTo(map)
+    // Example: replace this with your real-time data fetching logic
+    var trainLocation = { lat: -6.1751, lng: 106.0 };
+
+    var marker = L.marker([trainLocation.lat, trainLocation.lng]).addTo(map)
         .bindPopup('Kereta Api: {{ $no_ka }}')
         .openPopup();
 
@@ -26,7 +37,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             .then(response => response.json())
             .then(data => {
                 map.setView([data.latitude, data.longitude], 13);
-                L.marker([data.latitude, data.longitude]).addTo(map)
+                marker.setLatLng([data.latitude, data.longitude])
                     .bindPopup('Kereta Api: {{ $no_ka }}')
                     .openPopup();
             });
