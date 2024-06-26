@@ -1,10 +1,14 @@
 @extends('layouts.app')
 
+
 @section('content')
+
+@include('Component.navbar')
 <div class="container">
     <h1>Tracking KA: {{ $trainNumber }}</h1>
     <div id="map" style="height: 500px;"></div>
 </div>
+@include('Component.footer')
 
 <script>
 document.addEventListener('DOMContentLoaded', (event) => {
@@ -63,3 +67,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 </script>
 @endsection
+

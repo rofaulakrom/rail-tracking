@@ -13,6 +13,8 @@ Route::get('/', function () {
     return redirect('/home');
 });
 
+
+
 // Route untuk mendapatkan lokasi kereta
 Route::get('/location', [APIController::class, 'getTrainLocation']);
 

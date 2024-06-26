@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RailTrackingBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95d6159384025effd8581676bbd76c6c4523d8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+407e16b665bedeb82e9079ace4e12f7da46c8971")]
 [assembly: System.Reflection.AssemblyProductAttribute("RailTrackingBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RailTrackingBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
