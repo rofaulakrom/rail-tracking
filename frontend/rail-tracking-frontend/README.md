@@ -79,3 +79,28 @@ rcs-rail-tracking-system/
 └── .env
 ```
  
+ ## How to Run Execution Testing
+
+1. Jalankan unit test Laravel:
+```
+php artisan serve / php artisan test
+```
+3. Jalankan unit test .NET:
+```
+dotnet run / dotnet test
+```
+
+ ## Class TestRunner
+
+Untuk menjalankan semua test secara otomatis, gunakan class TestRunner yang telah disiapkan:
+```
+php artisan test --filter TestRunner
+dotnet test --filter TestRunner
+```
+
+ ## Software Under Test
+Frontend: Laravel
+Backend: .NET
+Database: PHP/SQL
+
+ ## 
