@@ -34,13 +34,4 @@ class TrainController extends Controller
 
         return response()->json([]);
     }
-
-    // Mendapatkan lokasi real-time kereta (placeholder)
-    public function getLocation()
-    {
-        return response()->json([
-            'latitude' => -6.91,
-            'longitude' => 107.60
-        ]);
-    }
 }

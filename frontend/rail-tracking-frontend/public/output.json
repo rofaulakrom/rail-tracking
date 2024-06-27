@@ -1,0 +1,1272 @@
+{
+    "id": "4626672",
+    "members": [
+        {
+            "type": "node",
+            "ref": "6872615131",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10693253653",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694286156",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "11549081663",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "11549081621",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "7835805289",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694245344",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10693460291",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "291546102",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "11546259370",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "11432455980",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694595318",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694595345",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "3352316735",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694595366",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "3448590009",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10314211393",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10314211392",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10314211390",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10314211391",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10314211368",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "6483392219",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10698993413",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10698966829",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10698966828",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "10694595400",
+            "role": "stop"
+        },
+        {
+            "type": "node",
+            "ref": "11755899803",
+            "role": "stop_entry_only"
+        },
+        {
+            "type": "node",
+            "ref": "1227216840",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "42806266",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184423",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184422",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "965936121",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "965936120",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "906008011",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184425",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184424",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "965923493",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1128232629",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "990499167",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1128232623",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1245300811",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1245300809",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "965923494",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "906008010",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1191015058",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1191015057",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1156870775",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561404010",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561404011",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566331",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414899",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561404013",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414898",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242742391",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "554803483",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "871585090",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936031",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149573054",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936039",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936038",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936037",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936036",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936035",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936034",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936033",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1229936032",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414910",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1128133952",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1264210827",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414914",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "415766627",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414915",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "828302707",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242742384",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414908",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279414913",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "415744895",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "552319185",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "321027467",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "321027466",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566327",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "828989404",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723294",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1265510725",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1265002084",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "902837108",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1265002091",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723291",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723286",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279978977",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723288",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279978976",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723287",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723289",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1187069947",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566323",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566322",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242516110",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "902837821",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566321",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1216385150",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "902837823",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561410149",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561410603",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "561410604",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1187069942",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1265007929",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "257233122",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1265007922",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1289162534",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1289162535",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "330116185",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1289998555",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1242723283",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149566319",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1216061741",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149394439",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1216061736",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149394440",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "383346221",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1127992516",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256811243",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598800",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598801",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "757293080",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598799",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598798",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "757293081",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598797",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598796",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598795",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598794",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "575741259",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598802",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598803",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598804",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598805",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465798",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465799",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "575741260",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598793",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1291053277",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598792",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1291053276",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465801",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465800",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256811242",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256810921",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256810920",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812002",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812003",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812001",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812000",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068576",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068575",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068578",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068577",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068574",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068573",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068571",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1131068572",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812005",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812004",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812006",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "256812007",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598806",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149598807",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1291053282",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "42794283",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1291053283",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1180153175",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "328408656",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576483",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576484",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576485",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576486",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576481",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576482",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576479",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576480",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576477",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1072576478",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "42794290",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149611848",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149611847",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1132386499",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1132386500",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1130844493",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1130844494",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1128133966",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "558668709",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465804",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465806",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "558668710",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465809",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465808",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465818",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465817",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465815",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465816",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465810",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465811",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "868618599",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465805",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465803",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "868618598",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "868618600",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465823",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1232465824",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1211374312",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1211374313",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1264210828",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "328407196",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104163",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104171",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104172",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104162",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104169",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104168",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104159",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104158",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1180153172",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1180153171",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1132347596",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1132347597",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1264210829",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "106803956",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "584319161",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "584319162",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "584319151",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "868618596",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104149",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1150104150",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "868618597",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "584319152",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "702627889",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "702627888",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "702627887",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "702627886",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1127992532",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149611857",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149611858",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1279345203",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1187523740",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1005744416",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1005744417",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184419",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1087184420",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1149571111",
+            "role": ""
+        },
+        {
+            "type": "way",
+            "ref": "1128232636",
+            "role": ""
+        }
+    ],
+    "tags": {
+        "colour": "#2D398B",
+        "from": "Cicalengka",
+        "name": "Commuter Line Bandung Raya: Cicalengka \u2192 Purwakarta",
+        "name:en": "Greater Bandung Commuter Line: Cicalengka \u2192 Purwakarta",
+        "network": "KAI Commuter",
+        "network:wikidata": "Q12501611",
+        "operator": "KAI Commuter",
+        "public_transport:version": "2",
+        "ref": "B",
+        "route": "train",
+        "to": "Purwakarta",
+        "type": "route",
+        "wheelchair": "limited",
+        "wikidata": "Q12491123",
+        "wikipedia": "id:Kereta api lokal Bandung Raya"
+    }
+}
